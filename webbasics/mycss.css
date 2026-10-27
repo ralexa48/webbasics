@@ -1,0 +1,7 @@
+#header,#footer {width: 100%; text-align: center;border-radius:5px; }
+        #header {background:green; color:white; border-top:5px solid black;}
+        #footer {clear:left ; background:black;color:white;border-bottom:5px solid green;}
+        
+        #leftnav,#centerbody {margin:10px; float:left;}
+        #leftnav {padding-left:5px; padding-right:5px; border:2px outset green; width:30%; height:180px;}
+        #centerbody {padding-left:10px; text-align:center; width:60%;height:80%;}
